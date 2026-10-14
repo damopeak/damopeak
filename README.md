@@ -1,6 +1,6 @@
 ## Hi, I'm Ayodamope 👋
 
-I run **GA Goods**, a UK e-commerce distribution business, and I build the software that runs it. Everything here started as a real problem I had to solve: too much manual checking, too many inboxes and spreadsheets, not enough hours.
+I run **GA Goods**, a UK e-commerce distribution business and I build the software that runs it. Everything here started as a real problem I had to solve: too much manual checking, too many inboxes and spreadsheets, not enough hours.
 
 ### What I build
 
